@@ -52,13 +52,11 @@ h2 {
     height: 20px;
 }
 
-/*
+
 section > div {
-    background-image: url("../imagens/fundo_geral.jpg");
-    background-repeat: no-repeat;
     height: 500px;
 }
-*/
+
 div > a {
     display: grid;
     background-color: var(--cor-botoes);
