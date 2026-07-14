@@ -177,7 +177,7 @@ div > a:hover {
 
 .footer > p > a {
     text-decoration: none;
-    color: var(--cor-texto);
+    color: var(--cor-titulo);
 }
 
 /* Treinos */
