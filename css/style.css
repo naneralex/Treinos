@@ -158,3 +158,18 @@ div > a:hover {
 .botao-item span{
     font-size: 20px;
 }
+
+
+.footer  {
+    border: 2px solid rgba(255,255,255,.1);
+    border-radius: 5px;
+    backdrop-filter:blur(15px);
+    margin: 15px;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.footer > p > a {
+    text-decoration: none;
+    color: var(--cor-titulo);
+}
