@@ -162,6 +162,9 @@ div > a:hover {
     font-size: 15px;
 }
 
+.selecionado {
+    color: white;
+}
 
 .footer  {
     border: 2px solid rgba(255,255,255,.1);
