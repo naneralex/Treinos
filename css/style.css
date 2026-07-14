@@ -178,6 +178,14 @@ div > a:hover {
 
 /* Treinos */
 
+.rolagem {
+    height: 450px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
 .treino {
     border: 2px solid rgba(255,255,255,.1);
     background-color: var(--cor-card);
@@ -188,12 +196,13 @@ div > a:hover {
     display: flex;
     align-items: center;
     gap: 15px;
+    height: 88px;
 }
 
 .gif {
     border-radius: 10px;
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
 }
 
 .texto {
