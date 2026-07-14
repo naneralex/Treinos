@@ -24,9 +24,9 @@ body {
     background-image: url(../imagens/fundo_geral.jpg);
     background-position: center;
     background-size: cover;
-    min-height: 100vh;
-    max-height: 1920px;
-    color: white
+    min-height: 100dvh;
+    color: white;
+    overflow: hidden;
 }
 
 .plano-de-fundo {
